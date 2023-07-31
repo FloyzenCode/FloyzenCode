@@ -1,8 +1,8 @@
-# Hi, i'm Vasiliy 🤍
+# Hi everyone, i'm Vasiliy 👋
 ![5dfbd74fe0b6d7150b256a28_digital-marketing-hero](https://user-images.githubusercontent.com/107361187/230791166-675fa676-d730-4d59-9cd8-0ebf68fa681d.gif)
 ---
 ### :man_technologist: About Me :
-I'm C++ developer, WEB developer, C# developer, Java developer from Russia.
+I'm backend developer from Russia.
 - :telescope: I’m working as a Software Engineer and WEB-developer.
 - :zap: In my free time, I practice and read technical articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](t.me/floyz_g)
@@ -17,7 +17,6 @@ I'm C++ developer, WEB developer, C# developer, Java developer from Russia.
 </div>
 
 ### :fire: My Stats :
-
+[![Activity](https://github-readme-stats.vercel.app/api?username=FloyzenCode&show_icons=true&theme=white)](https://github.com/FloyzenCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloyzenCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
